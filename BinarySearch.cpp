@@ -1,5 +1,4 @@
-#include<iostream>
-#include<vector>
+#include<bits/stdc++.h>
 using namespace std;
 int binarysearch(vector<int> arr, int searchval)
 {
