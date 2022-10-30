@@ -114,6 +114,7 @@ int main()
     enqueueFront(1);
     enqueueRear(3);
     enqueueRear(4);
+    
     // dequeueFront();
     // dequeueRear();
     printQueue();
