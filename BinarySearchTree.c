@@ -219,7 +219,7 @@ int main()
     // inOrder(root);
 
     inOrder(root);
-    delete (root, 4);
+    delete(root, 4);
     printf("\n");
     inOrder(root);
     return 0;
